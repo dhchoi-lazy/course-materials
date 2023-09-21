@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -158,3 +159,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+week04/.DS_Store
+week04/resources/.DS_Store
+.DS_Store
+week04/slide02 - 객체.ipynb
+week04/slide03 - 변수.ipynb
+week04/slide04 - 자료형.ipynb
+week04/slide05 - list.ipynb
+week04/slide06 - if.ipynb
+week04/slide07 - for.ipynb
