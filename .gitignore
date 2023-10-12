@@ -162,6 +162,9 @@ cython_debug/
 week04/.DS_Store
 week04/resources/.DS_Store
 .DS_Store
-week06/.DS_Store
-week07/*
-
+week04/slide02 - 객체.ipynb
+week04/slide03 - 변수.ipynb
+week04/slide04 - 자료형.ipynb
+week04/slide05 - list.ipynb
+week04/slide06 - if.ipynb
+week04/slide07 - for.ipynb
