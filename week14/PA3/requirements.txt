@@ -2,3 +2,4 @@ urllib3
 requests
 pandas
 matplotlib
+lxml
